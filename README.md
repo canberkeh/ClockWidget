@@ -1,1 +1,3 @@
 # ClockWidget
+
+Use pyinstaller
